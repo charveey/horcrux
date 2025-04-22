@@ -1,7 +1,7 @@
-import os, sys, json
+import sys
 from album import Album
 from nest import Nest
-import conf, nest
+from conf import CONFIG,write_json
 
 class bcolors:
     HEADER = '\033[95m'
@@ -21,11 +21,11 @@ class log():
         print(bcolors.OKBLUE + text + bcolors.ENDC)
 
 def main():
-    log.info('Start process the gallery...')
-    horcrux = Album(conf.PHOTOS_PATH, 'Horcrux', 0)
+    log.info('Start processing the gallery...')
+    horcrux = Album(CONFIG.PHOTOS_PATH, 'Horcrux', 0)
     config = horcrux.format()
-    log.info('Now writing the config file to ' + str(conf.HORCRUX_PATH))
-    conf.write_json(conf.HORCRUX_PATH, config)
+    log.info('Now writing the config file to ' + str(CONFIG.HORCRUX_PATH))
+    write_json(CONFIG.HORCRUX_PATH, config)
     Nest().main()
     log.ok('Success! Enjoy~')
 

@@ -1,57 +1,64 @@
-import conf, sys, json
-from pathlib import Path
+import sys
+import json
+from conf import CONFIG, write_json
 
-class Nest():
+
+class Nest:
     def __init__(self):
         self.resources = []
 
-    def read(self, path):
-        print('read', conf.DIR_PATH.joinpath(path))
-        abs_path = conf.DIR_PATH.joinpath(path)
+    def read_json(self, relative_path):
+        abs_path = CONFIG.DIR_PATH.joinpath(relative_path)
+        print('Reading from:', abs_path)
         with open(abs_path, 'r') as f:
             return json.load(f)
-    
-    def append_album(self, album=None, photos=None):
-        if photos:
+
+    def append_album(self, album, photos=None):
+        """
+        If photos are given, convert album to a photo list container.
+        """
+        if photos is not None:
             album = {
                 'name': album['name'],
                 'type': 'photos',
-                'parents': album['parents'],
+                'parents': album.get('parents', []),
                 'list': photos
             }
-        
+
         self.resources.append(album)
-    
+
     def convert_child_items(self, items):
-        items_dict = items['dict']
-        items_order = items['order']
-        child_list = [items_dict.get(k) for k in items_order if k in items_dict]
-        return child_list
-    
+        """
+        Reorder children according to the given 'order' list.
+        """
+        return [items['dict'][key] for key in items['order'] if key in items['dict']]
+
     def nest_photos(self, album, list_path):
-        items = self.read(list_path)
+        items = self.read_json(list_path)
         photos = self.convert_child_items(items)
-        # self.append(album=album)
-        self.append_album(album=album, photos=photos)
-        
+        self.append_album(album, photos)
+
     def nest_album(self, album):
-        if album['type'] == 'album':
-            if album.get('no_sub_album'):
-                list_path = album['path']
-                self.nest_photos(album, list_path)
-            else:
-                album_list = self.convert_child_items(album['items'])
-                alone_photos = list(filter(lambda i: i['type'] == 'photo', album_list))
-                if alone_photos:
-                    self.append_album(album=album, photos=alone_photos)
-                for item in album_list:
-                    sub_album = self.nest_album(item)
-    
+        if album['type'] != 'album':
+            return
+
+        if album.get('no_sub_album'):
+            self.nest_photos(album, album['path'])
+        else:
+            children = self.convert_child_items(album['items'])
+            photos = [item for item in children if item['type'] == 'photo']
+            if photos:
+                self.append_album(album, photos)
+
+            for child in children:
+                self.nest_album(child)
+
     def main(self):
-        horcrux = self.read(conf.HORCRUX_PATH)
+        horcrux = self.read_json(CONFIG.HORCRUX_PATH)
         self.nest_album(horcrux)
-        conf.write_json(conf.CONFIG_PATH, self.resources)
+        write_json(CONFIG.CONFIG_PATH, self.resources)
+
 
 if __name__ == '__main__':
-    nest_album = Nest()
-    sys.exit(nest_album.main())
+    nest = Nest()
+    sys.exit(nest.main())
