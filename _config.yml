@@ -1,4 +1,4 @@
-name: Horcrux
+name: Kevin Amlaman
 
 frame_padding: 10px
 
@@ -29,7 +29,7 @@ process:
       fontfamily: Eczar-Medium.ttf
       rotate: 0
 
-instagram: 
+instagram: im_kveen
 
 sass:
   sass_dir: _sass
