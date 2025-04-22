@@ -5,3 +5,4 @@ _site/
 scripts/__pycache__/
 photos-back/
 venv/
+vendor/
