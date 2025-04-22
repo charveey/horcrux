@@ -1,0 +1,149 @@
+{
+  "order": [
+    "FUJI-7510.JPG",
+    "FUJI-7507.JPG",
+    "FUJI-7498.JPG",
+    "FUJI-7492.JPG",
+    "FUJI-7490.JPG",
+    "FUJI-7480.JPG",
+    "FUJI-7360.JPG",
+    "FUJI-7317.JPG",
+    "FUJI-7310.JPG",
+    "FUJI-7304.JPG",
+    "FUJI-7293.JPG"
+  ],
+  "dict": {
+    "FUJI-7510.JPG": {
+      "type": "photo",
+      "width": 4067,
+      "height": 3264,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 2500,
+      "focal": 35.0,
+      "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7510.webp",
+      "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7510.min.webp"
+    },
+    "FUJI-7507.JPG": {
+      "type": "photo",
+      "width": 4896,
+      "height": 3264,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 2000,
+      "focal": 35.0,
+      "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7507.webp",
+      "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7507.min.webp"
+    },
+    "FUJI-7498.JPG": {
+      "type": "photo",
+      "width": 2459,
+      "height": 3780,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 2500,
+      "focal": 35.0,
+      "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7498.webp",
+      "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7498.min.webp"
+    },
+    "FUJI-7492.JPG": {
+      "type": "photo",
+      "width": 4896,
+      "height": 3264,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 2000,
+      "focal": 35.0,
+      "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7492.webp",
+      "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7492.min.webp"
+    },
+    "FUJI-7490.JPG": {
+      "type": "photo",
+      "width": 4794,
+      "height": 3057,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 2500,
+      "focal": 35.0,
+      "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7490.webp",
+      "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7490.min.webp"
+    },
+    "FUJI-7480.JPG": {
+      "type": "photo",
+      "width": 3236,
+      "height": 4444,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/100s",
+      "iso": 800,
+      "focal": 35.0,
+      "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7480.webp",
+      "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7480.min.webp"
+    },
+    "FUJI-7360.JPG": {
+      "type": "photo",
+      "width": 2645,
+      "height": 4446,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 500,
+      "focal": 35.0,
+      "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7360.webp",
+      "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7360.min.webp"
+    },
+    "FUJI-7317.JPG": {
+      "type": "photo",
+      "width": 4896,
+      "height": 3264,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/160s",
+      "iso": 2500,
+      "focal": 35.0,
+      "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7317.webp",
+      "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7317.min.webp"
+    },
+    "FUJI-7310.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/160s",
+      "iso": 1250,
+      "focal": 35.0,
+      "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7310.webp",
+      "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7310.min.webp"
+    },
+    "FUJI-7304.JPG": {
+      "type": "photo",
+      "width": 3238,
+      "height": 4857,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/160s",
+      "iso": 3200,
+      "focal": 35.0,
+      "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7304.webp",
+      "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7304.min.webp"
+    },
+    "FUJI-7293.JPG": {
+      "type": "photo",
+      "width": 3085,
+      "height": 4628,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/160s",
+      "iso": 3200,
+      "focal": 35.0,
+      "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7293.webp",
+      "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7293.min.webp"
+    }
+  }
+}

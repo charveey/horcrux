@@ -1,0 +1,136 @@
+{
+  "order": [
+    "FUJI-0985.JPG",
+    "FUJI-0969.JPG",
+    "FUJI-0763.JPG",
+    "FUJI-0762.JPG",
+    "FUJI-0756.JPG",
+    "FUJI-0640.JPG",
+    "FUJI-0633.JPG",
+    "FUJI-0632.JPG",
+    "FUJI-0630.JPG",
+    "FUJI-0623.JPG"
+  ],
+  "dict": {
+    "FUJI-0985.JPG": {
+      "type": "photo",
+      "width": 2578,
+      "height": 3867,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 3200,
+      "focal": 50.0,
+      "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0985.webp",
+      "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0985.min.webp"
+    },
+    "FUJI-0969.JPG": {
+      "type": "photo",
+      "width": 3000,
+      "height": 4761,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 3200,
+      "focal": 50.0,
+      "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0969.webp",
+      "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0969.min.webp"
+    },
+    "FUJI-0763.JPG": {
+      "type": "photo",
+      "width": 3041,
+      "height": 4561,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 3200,
+      "focal": 50.0,
+      "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0763.webp",
+      "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0763.min.webp"
+    },
+    "FUJI-0762.JPG": {
+      "type": "photo",
+      "width": 3148,
+      "height": 4722,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 3200,
+      "focal": 50.0,
+      "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0762.webp",
+      "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0762.min.webp"
+    },
+    "FUJI-0756.JPG": {
+      "type": "photo",
+      "width": 3182,
+      "height": 4773,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 3200,
+      "focal": 50.0,
+      "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0756.webp",
+      "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0756.min.webp"
+    },
+    "FUJI-0640.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 3200,
+      "focal": 50.0,
+      "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0640.webp",
+      "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0640.min.webp"
+    },
+    "FUJI-0633.JPG": {
+      "type": "photo",
+      "width": 3204,
+      "height": 4806,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 3200,
+      "focal": 50.0,
+      "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0633.webp",
+      "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0633.min.webp"
+    },
+    "FUJI-0632.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 3200,
+      "focal": 50.0,
+      "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0632.webp",
+      "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0632.min.webp"
+    },
+    "FUJI-0630.JPG": {
+      "type": "photo",
+      "width": 3139,
+      "height": 4709,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 3200,
+      "focal": 50.0,
+      "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0630.webp",
+      "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0630.min.webp"
+    },
+    "FUJI-0623.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 3200,
+      "focal": 50.0,
+      "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0623.webp",
+      "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0623.min.webp"
+    }
+  }
+}

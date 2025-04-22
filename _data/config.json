@@ -1,106 +1,1149 @@
 [
   {
-    "name": "Street",
+    "name": "Blue is the warmest color",
     "type": "photos",
     "parents": [
-      "2019",
-      "August",
-      "Street"
+      "2024-2025",
+      "Street",
+      "Blue is the warmest color"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/12.jpg",
-        "min_path": "./photos/2019/August/Street/12.min.jpg"
+        "width": 3097,
+        "height": 4645,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/200s",
+        "iso": 200,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-8100.webp",
+        "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-8100.min.webp"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/10.jpg",
-        "min_path": "./photos/2019/August/Street/10.min.jpg"
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/200s",
+        "iso": 200,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-8064.webp",
+        "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-8064.min.webp"
       },
       {
         "type": "photo",
-        "width": 3393,
-        "height": 5089,
-        "path": "./photos/2019/August/Street/08.jpg",
-        "min_path": "./photos/2019/August/Street/08.min.jpg"
+        "width": 4566,
+        "height": 3000,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/200s",
+        "iso": 200,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-8054.webp",
+        "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-8054.min.webp"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2019/August/Street/07.jpg",
-        "min_path": "./photos/2019/August/Street/07.min.jpg"
+        "width": 4699,
+        "height": 3133,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-2498.webp",
+        "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-2498.min.webp"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2019/August/Street/05.jpg",
-        "min_path": "./photos/2019/August/Street/05.min.jpg"
+        "width": 4510,
+        "height": 3007,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-2494.webp",
+        "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-2494.min.webp"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/04.jpg",
-        "min_path": "./photos/2019/August/Street/04.min.jpg"
+        "width": 1650,
+        "height": 2556,
+        "camera": "Google Pixel 6 Pro",
+        "aperture": 2.2,
+        "exposure": "1/2700s",
+        "iso": 52,
+        "focal": 2.4,
+        "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-2.webp",
+        "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-2.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3717,
+        "height": 3254,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/1000s",
+        "iso": 320,
+        "focal": 50.0,
+        "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1729.webp",
+        "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1729.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 3208,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/1000s",
+        "iso": 250,
+        "focal": 50.0,
+        "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1725.webp",
+        "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1725.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3217,
+        "height": 4825,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/2900s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1419.webp",
+        "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1419.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/2400s",
+        "iso": 200,
+        "focal": 50.0,
+        "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1412.webp",
+        "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1412.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/1500s",
+        "iso": 200,
+        "focal": 50.0,
+        "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1409.webp",
+        "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1409.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 2631,
+        "height": 3841,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/4400s",
+        "iso": 200,
+        "focal": 50.0,
+        "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1399.webp",
+        "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1399.min.webp"
       }
     ]
   },
   {
-    "name": "Hokkaido December",
+    "name": "Babi by night",
     "type": "photos",
     "parents": [
-      "2018",
-      "Hokkaido December"
+      "2024-2025",
+      "Babi by night"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1133,
-        "path": "./photos/2018/Hokkaido December/13.jpg",
-        "min_path": "./photos/2018/Hokkaido December/13.min.jpg"
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/80s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024-2025/Babi by night/FUJI-6074.webp",
+        "min_path": "./photos/2024-2025/Babi by night/FUJI-6074.min.webp"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 983,
-        "path": "./photos/2018/Hokkaido December/08.jpg",
-        "min_path": "./photos/2018/Hokkaido December/08.min.jpg"
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/100s",
+        "iso": 400,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/Babi by night/FUJI-6014.webp",
+        "min_path": "./photos/2024-2025/Babi by night/FUJI-6014.min.webp"
       },
       {
         "type": "photo",
-        "width": 4344,
-        "height": 2897,
-        "path": "./photos/2018/Hokkaido December/07.jpg",
-        "min_path": "./photos/2018/Hokkaido December/07.min.jpg"
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/Babi by night/FUJI-5029.webp",
+        "min_path": "./photos/2024-2025/Babi by night/FUJI-5029.min.webp"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1134,
-        "path": "./photos/2018/Hokkaido December/05.jpg",
-        "min_path": "./photos/2018/Hokkaido December/05.min.jpg"
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/80s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/Babi by night/FUJI-3860.webp",
+        "min_path": "./photos/2024-2025/Babi by night/FUJI-3860.min.webp"
       },
       {
         "type": "photo",
-        "width": 4806,
-        "height": 3201,
-        "path": "./photos/2018/Hokkaido December/04.jpg",
-        "min_path": "./photos/2018/Hokkaido December/04.min.jpg"
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/80s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/Babi by night/FUJI-2419.webp",
+        "min_path": "./photos/2024-2025/Babi by night/FUJI-2419.min.webp"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1122,
-        "path": "./photos/2018/Hokkaido December/01.jpg",
-        "min_path": "./photos/2018/Hokkaido December/01.min.jpg"
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/Babi by night/FUJI-1719.webp",
+        "min_path": "./photos/2024-2025/Babi by night/FUJI-1719.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 2967,
+        "height": 4500,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/60s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024-2025/Babi by night/FUJI-1042.webp",
+        "min_path": "./photos/2024-2025/Babi by night/FUJI-1042.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/100s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024-2025/Babi by night/FUJI-1024.webp",
+        "min_path": "./photos/2024-2025/Babi by night/FUJI-1024.min.webp"
+      }
+    ]
+  },
+  {
+    "name": "The Face of Another",
+    "type": "photos",
+    "parents": [
+      "2024-2025",
+      "The Face of Another"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2024-2025/The Face of Another/FUJI-8087.webp",
+        "min_path": "./photos/2024-2025/The Face of Another/FUJI-8087.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3068,
+        "height": 4602,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/800s",
+        "iso": 400,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/The Face of Another/FUJI-8076.webp",
+        "min_path": "./photos/2024-2025/The Face of Another/FUJI-8076.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2024-2025/The Face of Another/FUJI-7963.webp",
+        "min_path": "./photos/2024-2025/The Face of Another/FUJI-7963.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/2000s",
+        "iso": 200,
+        "focal": 50.0,
+        "path": "./photos/2024-2025/The Face of Another/FUJI-7327.webp",
+        "min_path": "./photos/2024-2025/The Face of Another/FUJI-7327.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/80s",
+        "iso": 400,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/The Face of Another/FUJI-6704.webp",
+        "min_path": "./photos/2024-2025/The Face of Another/FUJI-6704.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 1600,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/The Face of Another/FUJI-6605.webp",
+        "min_path": "./photos/2024-2025/The Face of Another/FUJI-6605.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/The Face of Another/FUJI-6222.webp",
+        "min_path": "./photos/2024-2025/The Face of Another/FUJI-6222.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3177,
+        "height": 4766,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/The Face of Another/FUJI-3728.webp",
+        "min_path": "./photos/2024-2025/The Face of Another/FUJI-3728.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4613,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/250s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2024-2025/The Face of Another/FUJI-2962.webp",
+        "min_path": "./photos/2024-2025/The Face of Another/FUJI-2962.min.webp"
+      }
+    ]
+  },
+  {
+    "name": "Babi Express",
+    "type": "photos",
+    "parents": [
+      "2024-2025",
+      "Babi Express"
+    ],
+    "list": []
+  },
+  {
+    "name": "Dakar, mon amour",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Street",
+      "Dakar, mon amour"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4352,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/200s",
+        "iso": 1000,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-5122.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-5122.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 4896,
+        "height": 3264,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 5.6,
+        "exposure": "1/30s",
+        "iso": 3200,
+        "focal": 28.9,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-4993.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-4993.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/200s",
+        "iso": 1600,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-4671.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-4671.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/80s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-4646.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-4646.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/15s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-4616.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-4616.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/7000s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-4151.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-4151.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-4095.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-4095.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/200s",
+        "iso": 2500,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-3501.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-3501.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/600s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-3445.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-3445.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/5800s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-3429.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-3429.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-3407.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-3407.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/200s",
+        "iso": 1600,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-3337.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-3337.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/1500s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-3278.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-3278.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/550s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-3182.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-3182.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/1400s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-3174.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-3174.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/450s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-3172.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-3172.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/210s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-3145.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-3145.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 2268,
+        "height": 4032,
+        "camera": "Google Pixel 7 Pro",
+        "aperture": 1.9,
+        "exposure": "1/1000s",
+        "iso": 58,
+        "focal": 6.8,
+        "path": "./photos/2024/Street/Dakar, mon amour/FUJI-153229398.webp",
+        "min_path": "./photos/2024/Street/Dakar, mon amour/FUJI-153229398.min.webp"
+      }
+    ]
+  },
+  {
+    "name": "Shine, you crazy diamond",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Portrait",
+      "Shine, you crazy diamond"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 2578,
+        "height": 3867,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0985.webp",
+        "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0985.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 4761,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0969.webp",
+        "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0969.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3041,
+        "height": 4561,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0763.webp",
+        "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0763.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3148,
+        "height": 4722,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0762.webp",
+        "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0762.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3182,
+        "height": 4773,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0756.webp",
+        "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0756.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0640.webp",
+        "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0640.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3204,
+        "height": 4806,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0633.webp",
+        "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0633.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0632.webp",
+        "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0632.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3139,
+        "height": 4709,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0630.webp",
+        "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0630.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 50.0,
+        "path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0623.webp",
+        "min_path": "./photos/2024/Portrait/Shine, you crazy diamond/FUJI-0623.min.webp"
+      }
+    ]
+  },
+  {
+    "name": "The city with the 18 montains",
+    "type": "photos",
+    "parents": [
+      "2021",
+      "Man",
+      "The city with the 18 montains"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 5184,
+        "height": 3456,
+        "camera": "Canon Canon EOS Rebel T6",
+        "aperture": 11.0,
+        "exposure": "1/125s",
+        "iso": 100,
+        "focal": 18.0,
+        "path": "./photos/2021/Man/The city with the 18 montains/FUJI-6616.webp",
+        "min_path": "./photos/2021/Man/The city with the 18 montains/FUJI-6616.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 5184,
+        "height": 3456,
+        "camera": "Canon Canon EOS Rebel T6",
+        "aperture": 10.0,
+        "exposure": "1/200s",
+        "iso": 100,
+        "focal": 47.0,
+        "path": "./photos/2021/Man/The city with the 18 montains/FUJI-6272.webp",
+        "min_path": "./photos/2021/Man/The city with the 18 montains/FUJI-6272.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 4875,
+        "height": 3456,
+        "camera": "Canon Canon EOS Rebel T6",
+        "aperture": 11.0,
+        "exposure": "1/125s",
+        "iso": 100,
+        "focal": 27.0,
+        "path": "./photos/2021/Man/The city with the 18 montains/FUJI-6010.webp",
+        "min_path": "./photos/2021/Man/The city with the 18 montains/FUJI-6010.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 5124,
+        "height": 3416,
+        "camera": "Canon Canon EOS Rebel T6",
+        "aperture": 11.0,
+        "exposure": "1/160s",
+        "iso": 100,
+        "focal": 20.0,
+        "path": "./photos/2021/Man/The city with the 18 montains/FUJI-6003.webp",
+        "min_path": "./photos/2021/Man/The city with the 18 montains/FUJI-6003.min.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mati\u00e8res & Gestes",
+    "type": "photos",
+    "parents": [
+      "2025",
+      "Mati\u00e8res & Gestes"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4067,
+        "height": 3264,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 2500,
+        "focal": 35.0,
+        "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7510.webp",
+        "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7510.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 4896,
+        "height": 3264,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 2000,
+        "focal": 35.0,
+        "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7507.webp",
+        "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7507.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 2459,
+        "height": 3780,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 2500,
+        "focal": 35.0,
+        "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7498.webp",
+        "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7498.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 4896,
+        "height": 3264,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 2000,
+        "focal": 35.0,
+        "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7492.webp",
+        "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7492.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 4794,
+        "height": 3057,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 2500,
+        "focal": 35.0,
+        "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7490.webp",
+        "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7490.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3236,
+        "height": 4444,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/100s",
+        "iso": 800,
+        "focal": 35.0,
+        "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7480.webp",
+        "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7480.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 2645,
+        "height": 4446,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 500,
+        "focal": 35.0,
+        "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7360.webp",
+        "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7360.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 4896,
+        "height": 3264,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/160s",
+        "iso": 2500,
+        "focal": 35.0,
+        "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7317.webp",
+        "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7317.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/160s",
+        "iso": 1250,
+        "focal": 35.0,
+        "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7310.webp",
+        "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7310.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3238,
+        "height": 4857,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/160s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7304.webp",
+        "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7304.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3085,
+        "height": 4628,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/160s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7293.webp",
+        "min_path": "./photos/2025/Mati\u00e8res & Gestes/FUJI-7293.min.webp"
+      }
+    ]
+  },
+  {
+    "name": "Monochrome",
+    "type": "photos",
+    "parents": [
+      "2025",
+      "Monochrome"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3147,
+        "height": 4720,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/1900s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2025/Monochrome/FUJI-9027.webp",
+        "min_path": "./photos/2025/Monochrome/FUJI-9027.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/10000s",
+        "iso": 800,
+        "focal": 50.0,
+        "path": "./photos/2025/Monochrome/FUJI-9002.webp",
+        "min_path": "./photos/2025/Monochrome/FUJI-9002.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 6400,
+        "focal": 50.0,
+        "path": "./photos/2025/Monochrome/FUJI-8030.webp",
+        "min_path": "./photos/2025/Monochrome/FUJI-8030.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 4439,
+        "height": 3104,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/60s",
+        "iso": 800,
+        "focal": 35.0,
+        "path": "./photos/2025/Monochrome/FUJI-7757.webp",
+        "min_path": "./photos/2025/Monochrome/FUJI-7757.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/160s",
+        "iso": 200,
+        "focal": 50.0,
+        "path": "./photos/2025/Monochrome/FUJI-7686.webp",
+        "min_path": "./photos/2025/Monochrome/FUJI-7686.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3151,
+        "height": 4726,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/180s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2025/Monochrome/FUJI-7495.webp",
+        "min_path": "./photos/2025/Monochrome/FUJI-7495.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 4896,
+        "height": 3264,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/250s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2025/Monochrome/FUJI-5115.webp",
+        "min_path": "./photos/2025/Monochrome/FUJI-5115.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/125s",
+        "iso": 3200,
+        "focal": 35.0,
+        "path": "./photos/2025/Monochrome/FUJI-3152.webp",
+        "min_path": "./photos/2025/Monochrome/FUJI-3152.min.webp"
+      }
+    ]
+  },
+  {
+    "name": "Renaissance",
+    "type": "photos",
+    "parents": [
+      "2025",
+      "Portrait",
+      "Renaissance"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/500s",
+        "iso": 200,
+        "focal": 35.0,
+        "path": "./photos/2025/Portrait/Renaissance/FUJI-7065.webp",
+        "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7065.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/500s",
+        "iso": 200,
+        "focal": 35.0,
+        "path": "./photos/2025/Portrait/Renaissance/FUJI-7064.webp",
+        "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7064.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/500s",
+        "iso": 200,
+        "focal": 35.0,
+        "path": "./photos/2025/Portrait/Renaissance/FUJI-7063.webp",
+        "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7063.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/500s",
+        "iso": 200,
+        "focal": 35.0,
+        "path": "./photos/2025/Portrait/Renaissance/FUJI-7060.webp",
+        "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7060.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/500s",
+        "iso": 200,
+        "focal": 35.0,
+        "path": "./photos/2025/Portrait/Renaissance/FUJI-7059.webp",
+        "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7059.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/500s",
+        "iso": 200,
+        "focal": 35.0,
+        "path": "./photos/2025/Portrait/Renaissance/FUJI-7057.webp",
+        "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7057.min.webp"
+      },
+      {
+        "type": "photo",
+        "width": 3264,
+        "height": 4896,
+        "camera": "FUJIFILM X-E2S",
+        "aperture": 1.0,
+        "exposure": "1/500s",
+        "iso": 200,
+        "focal": 35.0,
+        "path": "./photos/2025/Portrait/Renaissance/FUJI-7051.webp",
+        "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7051.min.webp"
       }
     ]
   }

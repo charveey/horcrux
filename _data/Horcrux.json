@@ -5,71 +5,265 @@
   "parents": [],
   "items": {
     "order": [
-      "2019",
-      "2018"
+      "2024-2025",
+      "2024",
+      "2021",
+      "2025"
     ],
     "dict": {
-      "2018": {
-        "name": "2018",
+      "2025": {
+        "name": "2025",
         "type": "album",
         "root": 1,
         "parents": [
-          "2018"
+          "2025"
         ],
         "items": {
           "order": [
-            "Hokkaido December"
+            "Mati\u00e8res & Gestes",
+            "Monochrome",
+            "Portrait"
           ],
           "dict": {
-            "Hokkaido December": {
-              "name": "Hokkaido December",
+            "Mati\u00e8res & Gestes": {
+              "name": "Mati\u00e8res & Gestes",
               "type": "album",
               "root": 2,
               "parents": [
-                "2018",
-                "Hokkaido December"
+                "2025",
+                "Mati\u00e8res & Gestes"
               ],
-              "path": "./_data/albums/2018-Hokkaido December.json",
+              "path": "./_data/albums/2025-Mati\u00e8res & Gestes.json",
+              "no_sub_album": true
+            },
+            "Monochrome": {
+              "name": "Monochrome",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2025",
+                "Monochrome"
+              ],
+              "path": "./_data/albums/2025-Monochrome.json",
+              "no_sub_album": true
+            },
+            "Portrait": {
+              "name": "Portrait",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2025",
+                "Portrait"
+              ],
+              "items": {
+                "order": [
+                  "Renaissance"
+                ],
+                "dict": {
+                  "Renaissance": {
+                    "name": "Renaissance",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2025",
+                      "Portrait",
+                      "Renaissance"
+                    ],
+                    "path": "./_data/albums/2025-Portrait-Renaissance.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "2024-2025": {
+        "name": "2024-2025",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2024-2025"
+        ],
+        "items": {
+          "order": [
+            "Street",
+            "Babi by night",
+            "The Face of Another",
+            "Babi Express"
+          ],
+          "dict": {
+            "Street": {
+              "name": "Street",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024-2025",
+                "Street"
+              ],
+              "items": {
+                "order": [
+                  "Blue is the warmest color"
+                ],
+                "dict": {
+                  "Blue is the warmest color": {
+                    "name": "Blue is the warmest color",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2024-2025",
+                      "Street",
+                      "Blue is the warmest color"
+                    ],
+                    "path": "./_data/albums/2024-2025-Street-Blue is the warmest color.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "Babi by night": {
+              "name": "Babi by night",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024-2025",
+                "Babi by night"
+              ],
+              "path": "./_data/albums/2024-2025-Babi by night.json",
+              "no_sub_album": true
+            },
+            "The Face of Another": {
+              "name": "The Face of Another",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024-2025",
+                "The Face of Another"
+              ],
+              "path": "./_data/albums/2024-2025-The Face of Another.json",
+              "no_sub_album": true
+            },
+            "Babi Express": {
+              "name": "Babi Express",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024-2025",
+                "Babi Express"
+              ],
+              "path": "./_data/albums/2024-2025-Babi Express.json",
               "no_sub_album": true
             }
           }
         }
       },
-      "2019": {
-        "name": "2019",
+      "2024": {
+        "name": "2024",
         "type": "album",
         "root": 1,
         "parents": [
-          "2019"
+          "2024"
         ],
         "items": {
           "order": [
-            "August"
+            "Street",
+            "Portrait"
           ],
           "dict": {
-            "August": {
-              "name": "August",
+            "Street": {
+              "name": "Street",
               "type": "album",
               "root": 2,
               "parents": [
-                "2019",
-                "August"
+                "2024",
+                "Street"
               ],
               "items": {
                 "order": [
-                  "Street"
+                  "Dakar, mon amour"
                 ],
                 "dict": {
-                  "Street": {
-                    "name": "Street",
+                  "Dakar, mon amour": {
+                    "name": "Dakar, mon amour",
                     "type": "album",
                     "root": 3,
                     "parents": [
-                      "2019",
-                      "August",
-                      "Street"
+                      "2024",
+                      "Street",
+                      "Dakar, mon amour"
                     ],
-                    "path": "./_data/albums/2019-August-Street.json",
+                    "path": "./_data/albums/2024-Street-Dakar, mon amour.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "Portrait": {
+              "name": "Portrait",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Portrait"
+              ],
+              "items": {
+                "order": [
+                  "Shine, you crazy diamond"
+                ],
+                "dict": {
+                  "Shine, you crazy diamond": {
+                    "name": "Shine, you crazy diamond",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2024",
+                      "Portrait",
+                      "Shine, you crazy diamond"
+                    ],
+                    "path": "./_data/albums/2024-Portrait-Shine, you crazy diamond.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "2021": {
+        "name": "2021",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2021"
+        ],
+        "items": {
+          "order": [
+            "Man"
+          ],
+          "dict": {
+            "Man": {
+              "name": "Man",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2021",
+                "Man"
+              ],
+              "items": {
+                "order": [
+                  "The city with the 18 montains"
+                ],
+                "dict": {
+                  "The city with the 18 montains": {
+                    "name": "The city with the 18 montains",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2021",
+                      "Man",
+                      "The city with the 18 montains"
+                    ],
+                    "path": "./_data/albums/2021-Man-The city with the 18 montains.json",
                     "no_sub_album": true
                   }
                 }

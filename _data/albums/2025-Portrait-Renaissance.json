@@ -1,0 +1,97 @@
+{
+  "order": [
+    "FUJI-7065.JPG",
+    "FUJI-7064.JPG",
+    "FUJI-7063.JPG",
+    "FUJI-7060.JPG",
+    "FUJI-7059.JPG",
+    "FUJI-7057.JPG",
+    "FUJI-7051.JPG"
+  ],
+  "dict": {
+    "FUJI-7065.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/500s",
+      "iso": 200,
+      "focal": 35.0,
+      "path": "./photos/2025/Portrait/Renaissance/FUJI-7065.webp",
+      "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7065.min.webp"
+    },
+    "FUJI-7064.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/500s",
+      "iso": 200,
+      "focal": 35.0,
+      "path": "./photos/2025/Portrait/Renaissance/FUJI-7064.webp",
+      "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7064.min.webp"
+    },
+    "FUJI-7063.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/500s",
+      "iso": 200,
+      "focal": 35.0,
+      "path": "./photos/2025/Portrait/Renaissance/FUJI-7063.webp",
+      "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7063.min.webp"
+    },
+    "FUJI-7060.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/500s",
+      "iso": 200,
+      "focal": 35.0,
+      "path": "./photos/2025/Portrait/Renaissance/FUJI-7060.webp",
+      "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7060.min.webp"
+    },
+    "FUJI-7059.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/500s",
+      "iso": 200,
+      "focal": 35.0,
+      "path": "./photos/2025/Portrait/Renaissance/FUJI-7059.webp",
+      "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7059.min.webp"
+    },
+    "FUJI-7057.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/500s",
+      "iso": 200,
+      "focal": 35.0,
+      "path": "./photos/2025/Portrait/Renaissance/FUJI-7057.webp",
+      "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7057.min.webp"
+    },
+    "FUJI-7051.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/500s",
+      "iso": 200,
+      "focal": 35.0,
+      "path": "./photos/2025/Portrait/Renaissance/FUJI-7051.webp",
+      "min_path": "./photos/2025/Portrait/Renaissance/FUJI-7051.min.webp"
+    }
+  }
+}

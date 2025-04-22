@@ -1,0 +1,162 @@
+{
+  "order": [
+    "FUJI-8100.JPG",
+    "FUJI-8064.JPG",
+    "FUJI-8054.JPG",
+    "FUJI-2498.JPG",
+    "FUJI-2494.JPG",
+    "FUJI-2.JPG",
+    "FUJI-1729.JPG",
+    "FUJI-1725.JPG",
+    "FUJI-1419.JPG",
+    "FUJI-1412.JPG",
+    "FUJI-1409.JPG",
+    "FUJI-1399.JPG"
+  ],
+  "dict": {
+    "FUJI-8100.JPG": {
+      "type": "photo",
+      "width": 3097,
+      "height": 4645,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/200s",
+      "iso": 200,
+      "focal": 35.0,
+      "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-8100.webp",
+      "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-8100.min.webp"
+    },
+    "FUJI-8064.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/200s",
+      "iso": 200,
+      "focal": 35.0,
+      "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-8064.webp",
+      "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-8064.min.webp"
+    },
+    "FUJI-8054.JPG": {
+      "type": "photo",
+      "width": 4566,
+      "height": 3000,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/200s",
+      "iso": 200,
+      "focal": 35.0,
+      "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-8054.webp",
+      "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-8054.min.webp"
+    },
+    "FUJI-2498.JPG": {
+      "type": "photo",
+      "width": 4699,
+      "height": 3133,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 3200,
+      "focal": 35.0,
+      "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-2498.webp",
+      "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-2498.min.webp"
+    },
+    "FUJI-2494.JPG": {
+      "type": "photo",
+      "width": 4510,
+      "height": 3007,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 3200,
+      "focal": 35.0,
+      "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-2494.webp",
+      "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-2494.min.webp"
+    },
+    "FUJI-2.JPG": {
+      "type": "photo",
+      "width": 1650,
+      "height": 2556,
+      "camera": "Google Pixel 6 Pro",
+      "aperture": 2.2,
+      "exposure": "1/2700s",
+      "iso": 52,
+      "focal": 2.4,
+      "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-2.webp",
+      "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-2.min.webp"
+    },
+    "FUJI-1729.JPG": {
+      "type": "photo",
+      "width": 3717,
+      "height": 3254,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/1000s",
+      "iso": 320,
+      "focal": 50.0,
+      "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1729.webp",
+      "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1729.min.webp"
+    },
+    "FUJI-1725.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 3208,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/1000s",
+      "iso": 250,
+      "focal": 50.0,
+      "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1725.webp",
+      "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1725.min.webp"
+    },
+    "FUJI-1419.JPG": {
+      "type": "photo",
+      "width": 3217,
+      "height": 4825,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/2900s",
+      "iso": 800,
+      "focal": 50.0,
+      "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1419.webp",
+      "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1419.min.webp"
+    },
+    "FUJI-1412.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/2400s",
+      "iso": 200,
+      "focal": 50.0,
+      "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1412.webp",
+      "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1412.min.webp"
+    },
+    "FUJI-1409.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/1500s",
+      "iso": 200,
+      "focal": 50.0,
+      "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1409.webp",
+      "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1409.min.webp"
+    },
+    "FUJI-1399.JPG": {
+      "type": "photo",
+      "width": 2631,
+      "height": 3841,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/4400s",
+      "iso": 200,
+      "focal": 50.0,
+      "path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1399.webp",
+      "min_path": "./photos/2024-2025/Street/Blue is the warmest color/FUJI-1399.min.webp"
+    }
+  }
+}

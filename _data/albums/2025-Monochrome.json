@@ -1,0 +1,110 @@
+{
+  "order": [
+    "FUJI-9027.JPG",
+    "FUJI-9002.JPG",
+    "FUJI-8030.JPG",
+    "FUJI-7757.JPG",
+    "FUJI-7686.JPG",
+    "FUJI-7495.JPG",
+    "FUJI-5115.JPG",
+    "FUJI-3152.JPG"
+  ],
+  "dict": {
+    "FUJI-9027.JPG": {
+      "type": "photo",
+      "width": 3147,
+      "height": 4720,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/1900s",
+      "iso": 800,
+      "focal": 50.0,
+      "path": "./photos/2025/Monochrome/FUJI-9027.webp",
+      "min_path": "./photos/2025/Monochrome/FUJI-9027.min.webp"
+    },
+    "FUJI-9002.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/10000s",
+      "iso": 800,
+      "focal": 50.0,
+      "path": "./photos/2025/Monochrome/FUJI-9002.webp",
+      "min_path": "./photos/2025/Monochrome/FUJI-9002.min.webp"
+    },
+    "FUJI-8030.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 6400,
+      "focal": 50.0,
+      "path": "./photos/2025/Monochrome/FUJI-8030.webp",
+      "min_path": "./photos/2025/Monochrome/FUJI-8030.min.webp"
+    },
+    "FUJI-7757.JPG": {
+      "type": "photo",
+      "width": 4439,
+      "height": 3104,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/60s",
+      "iso": 800,
+      "focal": 35.0,
+      "path": "./photos/2025/Monochrome/FUJI-7757.webp",
+      "min_path": "./photos/2025/Monochrome/FUJI-7757.min.webp"
+    },
+    "FUJI-7686.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/160s",
+      "iso": 200,
+      "focal": 50.0,
+      "path": "./photos/2025/Monochrome/FUJI-7686.webp",
+      "min_path": "./photos/2025/Monochrome/FUJI-7686.min.webp"
+    },
+    "FUJI-7495.JPG": {
+      "type": "photo",
+      "width": 3151,
+      "height": 4726,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 3200,
+      "focal": 35.0,
+      "path": "./photos/2025/Monochrome/FUJI-7495.webp",
+      "min_path": "./photos/2025/Monochrome/FUJI-7495.min.webp"
+    },
+    "FUJI-5115.JPG": {
+      "type": "photo",
+      "width": 4896,
+      "height": 3264,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/250s",
+      "iso": 3200,
+      "focal": 35.0,
+      "path": "./photos/2025/Monochrome/FUJI-5115.webp",
+      "min_path": "./photos/2025/Monochrome/FUJI-5115.min.webp"
+    },
+    "FUJI-3152.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 3200,
+      "focal": 35.0,
+      "path": "./photos/2025/Monochrome/FUJI-3152.webp",
+      "min_path": "./photos/2025/Monochrome/FUJI-3152.min.webp"
+    }
+  }
+}

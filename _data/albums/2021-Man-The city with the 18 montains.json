@@ -1,0 +1,58 @@
+{
+  "order": [
+    "FUJI-6616.JPG",
+    "FUJI-6272.JPG",
+    "FUJI-6010.JPG",
+    "FUJI-6003.JPG"
+  ],
+  "dict": {
+    "FUJI-6616.JPG": {
+      "type": "photo",
+      "width": 5184,
+      "height": 3456,
+      "camera": "Canon Canon EOS Rebel T6",
+      "aperture": 11.0,
+      "exposure": "1/125s",
+      "iso": 100,
+      "focal": 18.0,
+      "path": "./photos/2021/Man/The city with the 18 montains/FUJI-6616.webp",
+      "min_path": "./photos/2021/Man/The city with the 18 montains/FUJI-6616.min.webp"
+    },
+    "FUJI-6272.JPG": {
+      "type": "photo",
+      "width": 5184,
+      "height": 3456,
+      "camera": "Canon Canon EOS Rebel T6",
+      "aperture": 10.0,
+      "exposure": "1/200s",
+      "iso": 100,
+      "focal": 47.0,
+      "path": "./photos/2021/Man/The city with the 18 montains/FUJI-6272.webp",
+      "min_path": "./photos/2021/Man/The city with the 18 montains/FUJI-6272.min.webp"
+    },
+    "FUJI-6010.JPG": {
+      "type": "photo",
+      "width": 4875,
+      "height": 3456,
+      "camera": "Canon Canon EOS Rebel T6",
+      "aperture": 11.0,
+      "exposure": "1/125s",
+      "iso": 100,
+      "focal": 27.0,
+      "path": "./photos/2021/Man/The city with the 18 montains/FUJI-6010.webp",
+      "min_path": "./photos/2021/Man/The city with the 18 montains/FUJI-6010.min.webp"
+    },
+    "FUJI-6003.JPG": {
+      "type": "photo",
+      "width": 5124,
+      "height": 3416,
+      "camera": "Canon Canon EOS Rebel T6",
+      "aperture": 11.0,
+      "exposure": "1/160s",
+      "iso": 100,
+      "focal": 20.0,
+      "path": "./photos/2021/Man/The city with the 18 montains/FUJI-6003.webp",
+      "min_path": "./photos/2021/Man/The city with the 18 montains/FUJI-6003.min.webp"
+    }
+  }
+}

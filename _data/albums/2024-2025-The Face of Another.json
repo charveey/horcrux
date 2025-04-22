@@ -1,0 +1,123 @@
+{
+  "order": [
+    "FUJI-8087.JPG",
+    "FUJI-8076.JPG",
+    "FUJI-7963.JPG",
+    "FUJI-7327.JPG",
+    "FUJI-6704.JPG",
+    "FUJI-6605.JPG",
+    "FUJI-6222.JPG",
+    "FUJI-3728.JPG",
+    "FUJI-2962.JPG"
+  ],
+  "dict": {
+    "FUJI-8087.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 800,
+      "focal": 50.0,
+      "path": "./photos/2024-2025/The Face of Another/FUJI-8087.webp",
+      "min_path": "./photos/2024-2025/The Face of Another/FUJI-8087.min.webp"
+    },
+    "FUJI-8076.JPG": {
+      "type": "photo",
+      "width": 3068,
+      "height": 4602,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/800s",
+      "iso": 400,
+      "focal": 35.0,
+      "path": "./photos/2024-2025/The Face of Another/FUJI-8076.webp",
+      "min_path": "./photos/2024-2025/The Face of Another/FUJI-8076.min.webp"
+    },
+    "FUJI-7963.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 800,
+      "focal": 50.0,
+      "path": "./photos/2024-2025/The Face of Another/FUJI-7963.webp",
+      "min_path": "./photos/2024-2025/The Face of Another/FUJI-7963.min.webp"
+    },
+    "FUJI-7327.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/2000s",
+      "iso": 200,
+      "focal": 50.0,
+      "path": "./photos/2024-2025/The Face of Another/FUJI-7327.webp",
+      "min_path": "./photos/2024-2025/The Face of Another/FUJI-7327.min.webp"
+    },
+    "FUJI-6704.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/80s",
+      "iso": 400,
+      "focal": 35.0,
+      "path": "./photos/2024-2025/The Face of Another/FUJI-6704.webp",
+      "min_path": "./photos/2024-2025/The Face of Another/FUJI-6704.min.webp"
+    },
+    "FUJI-6605.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/125s",
+      "iso": 1600,
+      "focal": 35.0,
+      "path": "./photos/2024-2025/The Face of Another/FUJI-6605.webp",
+      "min_path": "./photos/2024-2025/The Face of Another/FUJI-6605.min.webp"
+    },
+    "FUJI-6222.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4896,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 3200,
+      "focal": 35.0,
+      "path": "./photos/2024-2025/The Face of Another/FUJI-6222.webp",
+      "min_path": "./photos/2024-2025/The Face of Another/FUJI-6222.min.webp"
+    },
+    "FUJI-3728.JPG": {
+      "type": "photo",
+      "width": 3177,
+      "height": 4766,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/180s",
+      "iso": 3200,
+      "focal": 35.0,
+      "path": "./photos/2024-2025/The Face of Another/FUJI-3728.webp",
+      "min_path": "./photos/2024-2025/The Face of Another/FUJI-3728.min.webp"
+    },
+    "FUJI-2962.JPG": {
+      "type": "photo",
+      "width": 3264,
+      "height": 4613,
+      "camera": "FUJIFILM X-E2S",
+      "aperture": 1.0,
+      "exposure": "1/250s",
+      "iso": 3200,
+      "focal": 35.0,
+      "path": "./photos/2024-2025/The Face of Another/FUJI-2962.webp",
+      "min_path": "./photos/2024-2025/The Face of Another/FUJI-2962.min.webp"
+    }
+  }
+}
