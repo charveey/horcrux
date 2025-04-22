@@ -5,6 +5,7 @@ SCRIPT_PATH=$(dirname "$0")
 python3 -m venv venv    
 source venv/bin/activate  
 pip install pyyaml
+pip install pytest
 pip install Pillow
 echo $VIRTUAL_ENV
 
